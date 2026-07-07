@@ -6,6 +6,16 @@ This is a testnet credit-management product rather than a public lending pool. E
 
 A capital provider can define a borrower, set a maximum USDC credit limit, fund the facility, and control whether further drawdowns are allowed. The borrower can draw USDC up to the available credit limit and repay the outstanding balance over time.
 
+## Product screenshots
+
+### Issuer console
+
+![ArcCredit issuer console](docs/screenshots/issuer-console.png)
+
+### Borrower and servicing console
+
+![ArcCredit borrower and servicing console](docs/screenshots/borrower-servicing-console.png)
+
 ## Core onchain lifecycle
 
 ```text
